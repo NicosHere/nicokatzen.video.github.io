@@ -1,0 +1,31 @@
+periods:
+  - Period 0
+  - Period 1
+  - Period 2
+  - Period 3
+  - Period 4
+  - Period 5
+  - Period 6
+  - Period 7
+
+tuesday-thursday:
+  name: Tuesday/Thursday
+  schedule: 
+    - 8:30 Period 1
+    - 9:30 Period 2
+    - 10:30 Period 3
+    - 11:30 Period 7
+    - 12:30 Free
+
+wednesday-friday:
+  name: Wednesday/Friday
+  schedule:
+    - 7:30 Period 0
+    - 8:30 Period 4
+    - 9:30 Period 5
+    - 10:30 Period 6
+    - 11:30 Free
+
+weekend:
+  name: Weeekend
+  schedule: ~

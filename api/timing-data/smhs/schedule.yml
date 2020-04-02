@@ -1,0 +1,13 @@
+defaults:
+  start: 4/12/2020
+  pattern:
+    - weekend
+    - weekend
+    - tuesday-thursday
+    - wednesday-friday
+    - tuesday-thursday
+    - wednesday-friday
+    - weekend
+
+calendar:
+   - 6/8/2018 weekend "MLK Day"
